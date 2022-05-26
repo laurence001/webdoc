@@ -4,6 +4,8 @@ A WordPress plugin to easily create web documentaries, by controlling each eleme
 
 Current version: 1.1
 
+There are two zip files: webdoc et webdocv2, please use the most suitable as the displaying is likely to vary from one installation to another.
+
 Documentation in NL and EN included in the plugin. In French: https://journodev.tech/webdoc-pour-wordpress-documentation/
 
 Demo: https://journodev.tech/webdoc/hello-ia-les-challenges-ethiques-du-business-de-lintelligence-artificielle/
